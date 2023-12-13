@@ -1,0 +1,20 @@
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\bin\Debug\CalculadoraTeste.exe.config
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\bin\Debug\CalculadoraTeste.exe
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\bin\Debug\CalculadoraTeste.pdb
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.AssemblyReference.cache
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.Form1.resources
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.Properties.Resources.resources
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.GenerateResource.cache
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.CoreCompileInputs.cache
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.exe
+C:\Users\tarciso\source\repos\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.pdb
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\bin\Debug\CalculadoraTeste.exe.config
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\bin\Debug\CalculadoraTeste.exe
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\bin\Debug\CalculadoraTeste.pdb
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.AssemblyReference.cache
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.Form1.resources
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.Properties.Resources.resources
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.GenerateResource.cache
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.csproj.CoreCompileInputs.cache
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.exe
+C:\Users\tarciso\Desktop\Projetos CSharp\CalculadoraTeste\CalculadoraTeste\obj\Debug\CalculadoraTeste.pdb
